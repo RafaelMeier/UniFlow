@@ -1,3 +1,3 @@
 # UniFlow
 
-This repository was built with intention to provide additional material for students play around with problems.
+This repository was built to provide additional material for students playing around with problems.
